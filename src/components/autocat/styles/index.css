@@ -1,0 +1,11 @@
+.autocat-icon-blue-bckg{
+    color: aqua;
+}
+
+.autocat-number-icon {
+float: right;   
+background-color: crimson;
+border-radius: 20px;
+width: 20px;
+    height: 20px;
+}
